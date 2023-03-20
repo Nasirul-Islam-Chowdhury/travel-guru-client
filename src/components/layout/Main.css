@@ -1,0 +1,8 @@
+.bg-home {
+    background:
+        /* top, transparent black, faked with gradient */
+        linear-gradient(rgba(0, 0, 0, 0.7),
+            rgba(0, 0, 0, 0.7)),
+        /* bottom, image */
+        url(../../assets/Rectangle\ 1.png);
+}
